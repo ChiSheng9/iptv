@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:1231462
+#EXT-X-DISCONTINUITY-SEQUENCE:221
+#EXT-X-PROGRAM-DATE-TIME:04-Sep-2021 (16:09:19.541328)
+#EXTINF:5.0,
+https://manifest.googlevideo.com/api/manifest/dash/expire/1630764559/ei/rykzYZO8LZ242roPl4ufGA/ip/123.192.131.77/id/EtAbiN8i37M.1/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/force_finished/1/vprv/1/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cforce_finished%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJCO8HnGVLmsZTf7QOXa-lF3EoKpaVTp6JcxxZepqzpoCIQCtQyVrdgNzrK7SRg7dp9ujYc6WkXMbY_VekMPCncu2cw%3D%3D
