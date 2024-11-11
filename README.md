@@ -50,7 +50,7 @@ TV49,中天2台
 TV50,Malayalam News  
 TV51,Arirang TV  
 TV52,CNA LIVE  
-TV53,HTB北海道????  
+TV53,HTB北海道ニュース  
 TV54,美好購物1台  
 TV55,美好購物2台  
 TV56,國會頻道１  
@@ -59,9 +59,9 @@ TV58,123 GO! Live
 TV59,Al Jazeera English  
 TV60,Muse木棉花-闔家歡  
 TV61,KBS News  
-TV62,ABC???????  
+TV62,ABCテレビニュース  
 TV63,YOYO TV  
-TV64,小?佩奇  
+TV64,小猪佩奇  
 TV65,Talking Tom  
 TV66,TalkingFriendsTVMini  
 TV67,Dave and Ava  
