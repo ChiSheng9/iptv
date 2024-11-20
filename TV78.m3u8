@@ -1,5 +1,5 @@
-#EXTM3U 
-#EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000 
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1732025683/ei/80g8Z5DbLNuB0-kPv4iJOA/ip/118.233.88.221/id/HuFYqnbVbzY.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-3cgv-un5z.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/qtApAeW8X4ECrS9XTdlQubmSAojTknz-wVDPJJnW1VdHp7kqU47FlU_YzYTqKKs/vprv/1/playlist_type/DVR/initcwndbps/1033750/met/1732004085,/mh/GY/mm/44/mn/sn-3cgv-un5z/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51299154,51312688,51326932,51335593,51348765/mt/1732003742/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAMQdFEp1zn0a8hAZPo5ufd1ycuiWT65Xt-318HHa6u_dAiACGvUG7naKWmoLvJpnJLUxdGbNlMJI3S1kjjRkcdf9lQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/AGluJ3MwRQIgbppngadDlE8z4Ow3M6vyyxNV4V1l49wZqIvDWN-lLFUCIQCvT04bhJHHSnre-q2UCpz99voKSW6pNvwO1xjJ7rp2tQ%3D%3D/playlist/index.m3u8
-#Last refreshed on 2024/11/19 16:14:42.09 Taipei Standard Time 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
+
+
