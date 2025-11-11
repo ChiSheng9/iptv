@@ -40,7 +40,7 @@ TV39,NBC News
 TV40,News18 India  
 TV41,寰宇新聞台灣台  
 TV42,MIT台灣誌  
-TV43,鳳凰衛視資訊台  
+TV43,公視 網路直播頻道  
 TV44,MediaoneTV Live  
 TV45,TBS NEWS  
 TV46,NewsTamil24x7  
