@@ -28,7 +28,7 @@ TV27,Astro AWANI
 TV28,中天電視  
 TV29,Tokyo Walk  
 TV30,大愛一臺HD  
-TV31,TVBS NEWS  
+TV31,TVBS NEWS 24小時直播  
 TV32,三立新聞台  
 TV33,GB News  
 TV34,中視經典綜藝  
