@@ -94,12 +94,3 @@
         TV94,華視公眾安全資訊觀測站  
         TV95,東森新聞 51 頻道 24 小時直播  
         TV96,東森綜合2台頻道 24 小時直播  
-        EOL
-
-git init
-git config --local user.name "actions"
-git config --local user.email "action@github.com"
-git add TV*.m3u8 README.md playlist.txt
-git commit -m "update iptv"
-git push -f -u https://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@github.com/ChiSheng9/iptv.git master
-
